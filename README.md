@@ -1,6 +1,6 @@
-# SemiVanilla MC Website
+# Asthonia MC Website
 
-URL: https://semivanilla.com
+URL: https://asthonia.com
 
 See this page for hosting information: [https://github.com/SemiVanilla-MC/host](https://github.com/SemiVanilla-MC/host)
 

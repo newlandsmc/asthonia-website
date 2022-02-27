@@ -43,7 +43,7 @@
           </section>
           <section>
             <h3>XP Boosts</h3>
-            <p>You can purchase XP boosts in our <a href="https://store.semivanilla.com" target="_blank">online store</a>. XP Boosts apply to the <strong>ENTIRE</strong> server and last 2 hours.</p>
+            <p>You can purchase XP boosts in our <a href="https://store.asthonia.com" target="_blank">online store</a>. XP Boosts apply to the <strong>ENTIRE</strong> server and last 2 hours.</p>
             <p>Premium ranks also receive a permanent small XP boost.</p>
             <ul>
               <li><a href="https://store.semivanilla.com" target="_blank"><span style="color:rgb(0,111,144);">D</span><span style="color:rgb(43,132,162);">i</span><span style="color:rgb(70,154,180);">a</span><span style="color:rgb(95,177,199);">m</span><span style="color:rgb(120,199,217);">o</span><span style="color:rgb(145,223,236);">n</span><span style="color:rgb(171,246,255);">d</span></a> - 30% XP boost</li>

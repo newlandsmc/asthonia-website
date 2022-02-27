@@ -81,11 +81,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #ff674d;
+  color: #a262ff;
 }
 
 a:hover {
-  color: #cc523d;
+  color: #8a54d9;
 }
 
 footer {
@@ -157,12 +157,12 @@ nav li a, nav li p {
 }
 
 nav li:hover > a, nav li:hover > p {
-  background-color: #cc523d;
+  background-color: #a262ff;
   color: white;
 }
 
 nav li a.active, nav li p.active {
-  background-color: #cc523d;
+  background-color: #a262ff;
   color: white;
 }
 
@@ -402,7 +402,7 @@ li.rules, .split-content li {
   flex-direction: row;
   justify-content: center;
   border-radius: 50px;
-  border: #ff674d dotted 3px;
+  border: #a262ff dotted 3px;
   flex-wrap: wrap;
 }
 
@@ -421,7 +421,7 @@ button {
   min-width: 90px;
   line-height: 1.5em;
   border-radius: 5px;
-  background-color: #ff674d;
+  background-color: #a262ff;
   font-family: 'mctext';
   color: white;
   border: none;
@@ -431,7 +431,7 @@ button {
 }
 
 button:hover {
-  background-color: #cc523d;
+  background-color: #8a54d9;
   transform: scale(1.1);
 }
 
@@ -561,7 +561,7 @@ button:hover {
 .overlay-fg {
   width: 80%;
   max-width: 440px;
-  background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ), url(/assets/images/the-world-out-there.webp);
+  background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ), url(/assets/images/clouddibal-art.webp);
   background-size: 1280px;
   color: #dddddd;
   text-align: center;

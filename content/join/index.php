@@ -38,7 +38,7 @@
         justify-content: center;
         align-items: center;
       }
-      img {
+      section img {
         border-radius: 15px;
       }
     </style>
@@ -46,7 +46,7 @@
   <body>
     <?php echo file_get_contents($_SERVER['DOCUMENT_ROOT'] .'/assets/templates/header.html'); ?>
     <main>
-      <div class="sub-title" style="background: url(/assets/images/the-world-out-there.webp); background-size: cover; background-position: 85%;">
+      <div class="sub-title" style="background: url(/assets/images/clouddibal-art.webp); background-size: cover; background-position: 85%;">
         <div>
           <h1>How to Join</h1>
           <h2 id="player-count">99 Players Online</h2>
