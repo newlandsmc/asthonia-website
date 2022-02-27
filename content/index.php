@@ -44,7 +44,7 @@
   <body id="landing-body">
     <?php echo file_get_contents($_SERVER['DOCUMENT_ROOT'] .'/assets/templates/header.html'); ?>
     <main>
-      <div class="title" style="background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) ), url(/assets/images/clouddibal-art.webp); background-size: cover; background-position: 85%;">
+      <div class="title" style="background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) ), url(/assets/images/starshrew-bg.webp); background-size: cover; background-position: 85%;">
         <div id="landing-title-text" style="text-align: center">
           <img id="landing-logo" src="/assets/images/logo.webp" alt="Asthonia Logo" />
           <h1 class="hide-mobile-2">Adventure Awaits</h1>
