@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'mctext';
+  font-display: swap;
+  src: url(https://semivanilla.com/assets/fonts/mctext.woff2) format('woff2'),
+       url(https://semivanilla.com/assets/fonts/mctext.woff) format('woff'),
+       url(https://semivanilla.com/assets/fonts/mctext.ttf) format('truetype');
+}
+
+#cookienotice {
+  all: initial;
+  position: fixed;
+  line-height: 1.5;
+  bottom: -300px;
+  transition: bottom 0.3s;
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  width: 90vw;
+  max-width: 700px;
+  background: #202020;
+  border-radius: 15px;
+  z-index: 1000;
+}
+
+#cookienotice p {
+  color: white;
+  margin: 16px;
+  font-family: sans-serif;
+}
+
+#cookienotice a {
+  text-decoration: none;
+  color: #ff674d;
+}
+
+#cookienotice a:hover {
+  color: #cc523d;
+}
+
+#cookiesnoticebutton {
+  padding: 10px;
+  margin: 16px;
+  min-width: 90px;
+  line-height: 1.5em;
+  border-radius: 5px;
+  background-color: #ff674d;
+  font-family: 'mctext';
+  color: white;
+  border: none;
+  transition: all 100ms cubic-bezier(0.55, 0.085, 0.68, 0.53);
+  cursor: pointer;
+  box-shadow: 1px 1px 4px 0px #000000;
+}
+
+#cookiesnoticebutton:hover {
+  background-color: #cc523d;
+  transform: scale(1.1);
+}
+
+@media (max-width: 650px) {
+  #cookienotice {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 8px;
+  }
+  #cookienotice p {
+    text-align: center;
+    margin: 8px;
+  }
+}

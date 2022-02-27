@@ -1,0 +1,865 @@
+{
+  "data": [
+    [
+      "Replanter",
+      "Replants crops when you break them.",
+      "Hoes",
+      "1",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Loyal",
+      "Finally a hoe that's loyal.",
+      "Hoes",
+      "1",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Strike",
+      "Chance to strike lightning at the opponent.",
+      "Swords, Axes, Tridents",
+      "3",
+      "<span style='color: #ffffff;'>Common</span>"
+    ],
+    [
+      "Area Strike",
+      "Chance to strike lightning at all nearby enemies.",
+      "Swords, Axes, Tridents",
+      "3",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Impact",
+      "Chance to double dealt damage.",
+      "Tridents",
+      "4",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Jelly Legs",
+      "Chance to negate fall damage.",
+      "Leggings",
+      "3",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Experience",
+      "Chance to get more experience from ores.",
+      "Pickaxes",
+      "5",
+      "<span style='color: #ffffff;'>Common</span>"
+    ],
+    [
+      "Hasten",
+      "Chance to gain Haste after breaking blocks.",
+      "Pickaxes, Axes",
+      "3",
+      "<span style='color: #ffffff;'>Common</span>"
+    ],
+    [
+      "Haste",
+      "Allows you to swing your tools faster.",
+      "Pickaxes, Axes",
+      "3",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Rebreather",
+      "Chance to regain air when mining under water.",
+      "Pickaxes, Shovels",
+      "2",
+      "<span style='color: #ffffff;'>Common</span>"
+    ],
+    [
+      "Decapitation",
+      "Opponents head drop on death.",
+      "Swords, Axes",
+      "1",
+      "<span style='color: #ffffff;'>Common</span>"
+    ],
+    [
+      "Forcefield",
+      "Chance to push away your opponent.",
+      "Swords",
+      "5",
+      "<span style='color: #ffffff;'>Common</span>"
+    ],
+    [
+      "Reflect",
+      "Chance to absorb enemy damage and reflect it back.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "5",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Ward",
+      "Chance to absorb enemy damage",
+      "Boots, Leggings, Chestplates, Helmets",
+      "4",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Explosive",
+      "Chance for arrows to explode.",
+      "Bows, Crossbows",
+      "5",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Ravenous",
+      "Chance to regain hunger while fighting.",
+      "Swords, Axes",
+      "4",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Vein Miner",
+      "Mine entire vein of ores",
+      "Pickaxes",
+      "1",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Telepathy",
+      "Automatically places ores in your inventory.",
+      "Pickaxes",
+      "1",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Ender Slayer",
+      "Increases damage dealt to Enderman and Ender dragons.",
+      "Swords, Axes",
+      "5",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Death Punch",
+      "Increases damage dealt to Zombies.",
+      "Swords, Axes",
+      "5",
+      "<span style='color: #ffffff;'>Common</span>"
+    ],
+    [
+      "Bone Crusher",
+      "Increases damage dealt to Skeletons.",
+      "Swords, Axes",
+      "3",
+      "<span style='color: #ffffff;'>Common</span>"
+    ],
+    [
+      "Sheep Slayer",
+      "Increases damage dealt to Passive Mobs.",
+      "Swords",
+      "1",
+      "<span style='color: #ffffff;'>Common</span>"
+    ],
+    [
+      "Hunter",
+      "Increases damage dealt to Passive Mobs.",
+      "Bows, Crossbows",
+      "4",
+      "<span style='color: #ffffff;'>Common</span>"
+    ],
+    [
+      "Beastslayer",
+      "Increases damage dealt to Hostile Mobs.",
+      "Swords, Axes, Tridents",
+      "4",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Beasthunter",
+      "Increases damage dealt to Hostile Mobs.",
+      "Bows, Crossbows",
+      "4",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Hook",
+      "Get more exp from fishing.",
+      "Fishing Rods",
+      "3",
+      "<span style='color: #ffffff;'>Common</span>"
+    ],
+    [
+      "Bait",
+      "Chance to receive double fishing drops.",
+      "Fishing Rods",
+      "3",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Snap",
+      "Pull hit entity towards you.",
+      "Fishing Rods",
+      "3",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Lucky",
+      "Chance to increase luck while fishing.",
+      "Fishing Rods",
+      "3",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Permafrost",
+      "Chance to slow and bleed opponents.",
+      "Swords",
+      "5",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Reaper",
+      "Chance to give your opponent the wither and blindness effects while dealing damage",
+      "Axes",
+      "4",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Nether Slayer",
+      "Increases damage dealt to nether mobs.",
+      "Swords, Axes",
+      "5",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Blind",
+      "A chance of causing blindness when attacking.",
+      "Swords",
+      "3",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Allure",
+      "Your attack pulls enemies towards you.",
+      "Swords",
+      "3",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Paralyze",
+      "Chance for lightning effect and for slowness.",
+      "Swords, Axes",
+      "4",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Poison",
+      "Chance of giving poison effect.",
+      "Swords, Axes",
+      "3",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Venom",
+      "Chance of giving poison effect.",
+      "Bows, Crossbows",
+      "3",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Snare",
+      "Chance to slow enemies with projectiles.",
+      "Bows",
+      "4",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Springs",
+      "Jump boost.",
+      "Boots",
+      "3",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Perish",
+      "Chance to give the wither effect.",
+      "Bows, Crossbows, Tridents",
+      "5",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Infernal",
+      "Chance for explosive fire effect.",
+      "Swords, Axes",
+      "3",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Extinguish",
+      "Chance to extinguish yourself when on fire.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "3",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Shockwave",
+      "Push back your attacker when your health is low.",
+      "Chestplates",
+      "5",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Vampire",
+      "A chance to heal you for up to 3hp a few seconds after you strike.",
+      "Swords",
+      "3",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Greatsword",
+      "Increases damage against players who are wielding a Bows at the time they are hit.",
+      "Swords",
+      "5",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Bowsmaster",
+      "Multiplies damage against players who are wielding a Swords at the time they are hit.",
+      "Bows, Crossbows",
+      "5",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Hardened",
+      "Chance to recover durability when damaged.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "3",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Timber",
+      "Break an entire tree in one hit",
+      "Axes",
+      "1",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Cleave",
+      "Damages enemies within a radius that increases with the level of enchant.",
+      "Swords, Axes",
+      "7",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Arrow Deflect",
+      "Chance to prevent enemy arrow from dealing damage.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "4",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Block",
+      "Chance to negate an attack and deal up to 4 damage back.",
+      "Swords",
+      "3",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Trench",
+      "Break in 3x3 area.",
+      "Pickaxes, Shovelss",
+      "1",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Dodge",
+      "Chance to dodge physical enemy, chance increases when sneaking.",
+      "Leggings",
+      "5",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Ice Aspect",
+      "Chance of causing the slowness effect on your enemy.",
+      "Swords",
+      "3",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Momentum",
+      "Chance to gain speed boost with fireworks.",
+      "Elytra",
+      "3",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Reinforced",
+      "Reduces damage dealt to you.",
+      "Elytra",
+      "4",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Restore",
+      "Upon breaking, item has a chance to lose this enchantment and repair half of its durability.",
+      "Pickaxes, Axes, Shovels",
+      "4",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Nano Carrots",
+      "Chance to restore food every few seconds.",
+      "Helmets",
+      "3",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Poseidon",
+      "Increases damage dealt with Tridents.",
+      "Tridents",
+      "5",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Safeguard",
+      "Chance to gain Damage Resistance when defending.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "2",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Shatter",
+      "Chance to deal extra durability damage to all enemy armor with every attack.",
+      "Swords, Axes",
+      "4",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Heavy",
+      "Decreases damage from enemy bows by 4% per level.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "5",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Devour",
+      "Chance to restore food while killing mobs.",
+      "Swords, Axes",
+      "3",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Replenish",
+      "Chance to restore food while mining.",
+      "Pickaxes",
+      "3",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Hellfire",
+      "Chance for arrows turn into fireballs.",
+      "Bows, Crossbows",
+      "5",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Longbow",
+      "Greatly increases damage dealt to enemy players that have a bow in their hands.",
+      "Bows",
+      "4",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Tank",
+      "Decreases damage from enemy axes by 4% per level.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "5",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Valor",
+      "Decreases damage from enemy swords by 4% per level.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "5",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Critical",
+      "Increase damage done with critical hit.",
+      "Swords",
+      "3",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Rebound",
+      "Gain some health back after kills.",
+      "Swords, Axes",
+      "3",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Thunderlord",
+      "Strike monsters with lightning every few consecutive hits.",
+      "Swords, Axes",
+      "3",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Creeper Armor",
+      "Chance to be immune to explosive damage, at higher levels you have a chance to heal.",
+      "Leggings",
+      "3",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Bleed",
+      "Chance to make your opponent bleed.",
+      "Axes, Swords, Tridents",
+      "6",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Wound",
+      "Chance to make your opponent bleed.",
+      "Bows, Crossbows",
+      "6",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Lava Walker",
+      "Walk on Lava.",
+      "Boots",
+      "1",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Torrent",
+      "Chance to deal double damage while in water.",
+      "Swords",
+      "4",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Judgement",
+      "Chance of poisoning opponent and gaining regeneration.",
+      "Elytra",
+      "5",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Divert",
+      "Chance of poisoning opponent and gaining regeneration.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "5",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Unholy",
+      "Chance to deal weakness and wither effects.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "5",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Chaos",
+      "Chance to deal weakness and wither effects.",
+      "Tridents",
+      "5",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Barbarian",
+      "Chance to deal more axe damage.",
+      "Axes",
+      "4",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Double Strike",
+      "Chance to strike twice.",
+      "Swords",
+      "3",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Gears",
+      "Zoom zoom.",
+      "Boots",
+      "3",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Inflame",
+      "Chance to set all enemies in radius on fire.",
+      "Axes, Swords",
+      "3",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Kill Aura",
+      "Chance to insta-kill multiple monsters in radius.",
+      "Swords",
+      "5",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Inquisitive",
+      "Chance to increase EXP drops from mobs.",
+      "Swords",
+      "4",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Lifesteal",
+      "Chance to steal health when attacking.",
+      "Swords",
+      "5",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Blacksmith",
+      "Chance to repair your weapon in exchange for dealing less damage.",
+      "Axes",
+      "5",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Sniper",
+      "Headshots with bows deal more  damage.",
+      "Bows",
+      "5",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Deadshot",
+      "Headshots with Tridents deal more damage.",
+      "Tridents",
+      "5",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Neutralize",
+      "Chance to disarm opponent.",
+      "Bows, Crossbows",
+      "2",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Disarm",
+      "Chance to disarm opponent.",
+      "Swords",
+      "3",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Phoenix",
+      "Chance to revive yourself when killed.",
+      "Chestplates",
+      "3",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Strife",
+      "Increases Trident melee damage.",
+      "Tridents",
+      "3",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Blunt Force",
+      "Chance to strike with great force.",
+      "Axes",
+      "4",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Plummet",
+      "Deal damage to nearby mobs when taking fall damage.",
+      "Boots",
+      "3",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Night Owl",
+      "Deal more damage to mobs at night.",
+      "Swords",
+      "3",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Slingshot",
+      "Boost yourself into flight by right-clicking. (Has cooldown)",
+      "Elytra",
+      "3",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Confusion",
+      "A chance to deal nausea to your victim.",
+      "Axes",
+      "3",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Lifebloom",
+      "Heals allies around you on your death.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "5",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Endershift",
+      "Gives speed/health boost at low hp. (Has cooldown)",
+      "Helmets",
+      "3",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Skill Swipe",
+      "A chance to steal some of your enemy's EXP every time you damage them.",
+      "Swords",
+      "5",
+      "<span style='color: #55ff55;'>Uncommon</span>"
+    ],
+    [
+      "Execute",
+      "Damage buff when your target is at low HP.",
+      "Swords",
+      "7",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Trap",
+      "Chance to give buffed slowness effect.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "3",
+      "<span style='color: #55ffff;'>Rare</span>"
+    ],
+    [
+      "Enrage",
+      "Deal more damage on low HP.",
+      "Swords",
+      "3",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Demonic",
+      "Chance to remove fire resistance from your enemy.",
+      "Swords, Axes",
+      "3",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Dominate",
+      "Chance to weaken enemy players when attacked, causing them to deal less damage.",
+      "Swords",
+      "4",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Arsonist",
+      "Chance to deal more damage whilst on fire",
+      "Swords",
+      "3",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Soul Whisper",
+      "Chance to cure wither and poison when attacked and heal at high levels.",
+      "Chestplates",
+      "5",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Eagle Eye",
+      "Chance to deal 1-4 durability damage to ALL armor pieces of enemy player.",
+      "Bows, Crossbows",
+      "5",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Unfocus",
+      "Chance to Unfocus target player, reducing their out going bow damage by 50% for up to 10 seconds.",
+      "Bows, Crossbows",
+      "5",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Metaphysical",
+      "Chance to be cured of slowness when attacked. At max level, you will only be affected approx. 10% of the time.",
+      "Boots",
+      "4",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
+      "Impale",
+      "Chance to deal double damage to your opponent, causing slowness for some time",
+      "Bows, Crossbows",
+      "4",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Guardian",
+      "Automatically heals and cures all nearby allies.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "5",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Stun",
+      "Chance to slow opponent, make them feel weak, and remove slowness from you.",
+      "Swords, Axes",
+      "3",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Inversion",
+      "Chance to block damage dealt to you and heal you for 1-5 HP.",
+      "Swords",
+      "4",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Rage",
+      "For every combo hit you land, chance to do 0.5 heart damage per combo to your opponent. Up to 5 max combo hits.",
+      "Swords, Axes",
+      "6",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Silence",
+      "Chance to disable all enemy armor enchantments for 3 seconds.",
+      "Swords, Axes, Tridents, Bows, Crossbows",
+      "4",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Diminish",
+      "When this effect procs, the next attack dealt to you cannot deal more than the (total amount of damage / 2) you took from the previous attack.",
+      "Boots, Leggings, Chestplates, Helmets",
+      "6",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
+      "Defuse",
+      "Chance to disable all enemy defensive enchantment's for 7 seconds.",
+      "Swords, Axes, Tridents, Bows, Crossbows",
+      "5",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Deactivate",
+      "Chance to disable all enemy offensive enchantment's for 7 seconds.",
+      "Swords, Axes, Tridents, Bows, Crossbows",
+      "5",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Mark of the Beast",
+      "Once an enemy is afflicted with the mark all incoming damage is increased by 2x for up to 5 seconds",
+      "Boots, Leggings, Chestplates, Helmets",
+      "6",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ],
+    [
+      "Chain Lifesteal",
+      "Chance to regain health from multiple enemies near your damaged target based on level",
+      "Boots, Leggings, Chestplates, Helmets",
+      "2",
+      "<span style='color: #ffff00;'>Fabled</span>"
+    ]
+  ]
+}
