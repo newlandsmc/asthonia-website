@@ -211,24 +211,10 @@
       "<span style='color: #ff55ff;'>Legendary</span>"
     ],
     [
-      "Reaper",
-      "Chance to give your opponent the wither and blindness effects while dealing damage",
-      "Axes",
-      "4",
-      "<span style='color: #55ffff;'>Rare</span>"
-    ],
-    [
       "Nether Slayer",
       "Increases damage dealt to nether mobs.",
       "Swords, Axes",
       "5",
-      "<span style='color: #55ffff;'>Rare</span>"
-    ],
-    [
-      "Blind",
-      "A chance of causing blindness when attacking.",
-      "Swords",
-      "3",
       "<span style='color: #55ffff;'>Rare</span>"
     ],
     [
@@ -306,13 +292,6 @@
       "A chance to heal you for up to 3hp a few seconds after you strike.",
       "Swords",
       "3",
-      "<span style='color: #55ffff;'>Rare</span>"
-    ],
-    [
-      "Greatsword",
-      "Increases damage against players who are wielding a Bows at the time they are hit.",
-      "Swords",
-      "5",
       "<span style='color: #55ffff;'>Rare</span>"
     ],
     [
@@ -418,13 +397,6 @@
       "Chance to gain Damage Resistance when defending.",
       "Boots, Leggings, Chestplates, Helmets",
       "2",
-      "<span style='color: #ff55ff;'>Legendary</span>"
-    ],
-    [
-      "Shatter",
-      "Chance to deal extra durability damage to all enemy armor with every attack.",
-      "Swords, Axes",
-      "4",
       "<span style='color: #ff55ff;'>Legendary</span>"
     ],
     [
@@ -603,13 +575,6 @@
       "<span style='color: #ffaa00;'>Exotic</span>"
     ],
     [
-      "Lifesteal",
-      "Chance to steal health when attacking.",
-      "Swords",
-      "5",
-      "<span style='color: #ffaa00;'>Exotic</span>"
-    ],
-    [
       "Blacksmith",
       "Chance to repair your weapon in exchange for dealing less damage.",
       "Axes",
@@ -635,13 +600,6 @@
       "Chance to disarm opponent.",
       "Bows, Crossbows",
       "2",
-      "<span style='color: #ffff00;'>Fabled</span>"
-    ],
-    [
-      "Disarm",
-      "Chance to disarm opponent.",
-      "Swords",
-      "3",
       "<span style='color: #ffff00;'>Fabled</span>"
     ],
     [
@@ -687,13 +645,6 @@
       "<span style='color: #ffaa00;'>Exotic</span>"
     ],
     [
-      "Confusion",
-      "A chance to deal nausea to your victim.",
-      "Axes",
-      "3",
-      "<span style='color: #55ff55;'>Uncommon</span>"
-    ],
-    [
       "Lifebloom",
       "Heals allies around you on your death.",
       "Boots, Leggings, Chestplates, Helmets",
@@ -705,13 +656,6 @@
       "Gives speed/health boost at low hp. (Has cooldown)",
       "Helmets",
       "3",
-      "<span style='color: #55ff55;'>Uncommon</span>"
-    ],
-    [
-      "Skill Swipe",
-      "A chance to steal some of your enemy's EXP every time you damage them.",
-      "Swords",
-      "5",
       "<span style='color: #55ff55;'>Uncommon</span>"
     ],
     [
@@ -732,13 +676,6 @@
       "Enrage",
       "Deal more damage on low HP.",
       "Swords",
-      "3",
-      "<span style='color: #ff55ff;'>Legendary</span>"
-    ],
-    [
-      "Demonic",
-      "Chance to remove fire resistance from your enemy.",
-      "Swords, Axes",
       "3",
       "<span style='color: #ff55ff;'>Legendary</span>"
     ],
@@ -796,13 +733,6 @@
       "Automatically heals and cures all nearby allies.",
       "Boots, Leggings, Chestplates, Helmets",
       "5",
-      "<span style='color: #ffaa00;'>Exotic</span>"
-    ],
-    [
-      "Stun",
-      "Chance to slow opponent, make them feel weak, and remove slowness from you.",
-      "Swords, Axes",
-      "3",
       "<span style='color: #ffaa00;'>Exotic</span>"
     ],
     [
