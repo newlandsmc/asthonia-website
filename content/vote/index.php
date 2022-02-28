@@ -32,27 +32,27 @@
         <section class="center" id="votelinks">
           <div>
             <h3>minecraftservers.org</h3>
-            <a href="https://minecraftservers.org/vote/630602" target="_blank"><button type="button" id="vote1" onclick="buttonClicked('vote1')">Vote</button></a>
+            <a href="https://minecraftservers.org/vote/632809" target="_blank"><button type="button" id="vote1" onclick="buttonClicked('vote1')">Vote</button></a>
           </div>
           <div>
             <h3>topmcservers.com</h3>
-            <a href="https://topmcservers.com/server/1610/vote" target="_blank"><button type="button" id="vote2" onclick="buttonClicked('vote2')">Vote</button></a>
+            <a href="https://topmcservers.com/server/1727/vote" target="_blank"><button type="button" id="vote2" onclick="buttonClicked('vote2')">Vote</button></a>
           </div>
           <div>
             <h3>minecraft-server-list.com</h3>
-            <a href="https://minecraft-server-list.com/server/484896/vote/" target="_blank"><button type="button" id="vote3" onclick="buttonClicked('vote3')">Vote</button></a>
+            <a href="https://minecraft-server-list.com/server/486070/vote/" target="_blank"><button type="button" id="vote3" onclick="buttonClicked('vote3')">Vote</button></a>
           </div>
           <div>
             <h3>planetminecraft.com</h3>
-            <a href="https://www.planetminecraft.com/server/semivanilla-mc/vote/" target="_blank"><button type="button" id="vote4" onclick="buttonClicked('vote4')">Vote</button></a>
+            <a href="https://www.planetminecraft.com/server/asthonia-1-18-1-friendly-community-survival/vote/" target="_blank"><button type="button" id="vote4" onclick="buttonClicked('vote4')">Vote</button></a>
           </div>
           <div>
             <h3>best-minecraft-servers.co</h3>
-            <a href="https://best-minecraft-servers.co/server-semivanilla-mc.3773/vote" target="_blank"><button type="button" id="vote5" onclick="buttonClicked('vote5')">Vote</button></a>
+            <a href="https://best-minecraft-servers.co/server-asthonia.5311/vote" target="_blank"><button type="button" id="vote5" onclick="buttonClicked('vote5')">Vote</button></a>
           </div>
           <div>
             <h3>minecraft.buzz</h3>
-            <a href="https://minecraft.buzz/vote/3877" target="_blank"><button type="button" id="vote6" onclick="buttonClicked('vote6')">Vote</button></a>
+            <a href="https://minecraft.buzz/vote/4375" target="_blank"><button type="button" id="vote6" onclick="buttonClicked('vote6')">Vote</button></a>
           </div>
         </section>
         <section class="center">
