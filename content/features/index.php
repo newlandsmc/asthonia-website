@@ -19,7 +19,7 @@
         <div class="shadow"></div>
         <div>
           <section>
-            <h3>Better Sleep</h3>
+            <h3>Exhaustion</h3>
             <p>Phantoms are disabled on SemiVanilla. Instead, to encourage sleep, players will experience <strong>Exhaustion</strong> - hearing random noises, occasional blindness, and nausea - if they don't sleep for extended periods of time.</p>
             <p>Phantom Membranes are still available on the server - we've added them to our custom lootchests!</p>
             <p>Hint: Only 33% of players need to sleep to skip night.</p>

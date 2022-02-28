@@ -125,12 +125,12 @@ nav *, footer * {
 }
 
 nav img {
-  height: 60%;
-  transition: height 0.1s;
+  width: 90%;
+  transition: width 0.1s;
 }
 
 nav img:hover {
-  height: 65%;
+  width: 100%;
 }
 
 nav ul, footer ul {
