@@ -93,7 +93,6 @@ footer {
   justify-content: center;
   flex-wrap: wrap;
   padding: 100px 50px 100px 50px;
-  margin-top: 30px;
   background-color: #08090e;
   border-top: black solid 4px;
   z-index: 1000;
@@ -290,6 +289,7 @@ main {
   justify-content: center;
   color: #bfc1cf;
   position: relative;
+  margin-bottom: 50px;
 }
 
 .content h3 {
@@ -674,6 +674,7 @@ button:hover {
     }
     #landing-logo {
       max-width: 80%;
+      margin: 20px auto 20px auto;
     }
     .split-content div {
       width: 100%;

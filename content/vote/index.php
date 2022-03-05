@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Semi-Vanilla Minecraft Server | Vote</title>
+    <title>Asthonia Minecraft Server | Vote</title>
     <?php echo file_get_contents($_SERVER['DOCUMENT_ROOT'] .'/assets/templates/seo.html'); ?>
     <script async type="module" src="/assets/javascript/jquery-3.6.0.min.js"></script>
     <script async src="/assets/javascript/button_clicked.js"></script>

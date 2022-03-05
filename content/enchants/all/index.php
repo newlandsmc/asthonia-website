@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Semi-Vanilla Minecraft Server | Custom Enchants | All</title>
+    <title>Asthonia Minecraft Server | Custom Enchants | All</title>
     <?php echo file_get_contents($_SERVER['DOCUMENT_ROOT'] .'/assets/templates/seo.html'); ?>
     <script src="/assets/javascript/jquery-3.6.0.min.js"></script>
     <script src="/assets/javascript/datatables.min.js"></script>

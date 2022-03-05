@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Asthonia Minecraft Server | Hard Survival | RPG</title>
+    <title>Asthonia Minecraft Server | Community Survival | RPG</title>
     <?php echo file_get_contents($_SERVER['DOCUMENT_ROOT'] .'/assets/templates/seo.html'); ?>
     <script async defer>
       function copyToClipboard(id) {
@@ -47,7 +47,7 @@
       <div class="title" style="background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) ), url(/assets/images/starshrew-bg.webp); background-size: cover; background-position: 85%;">
         <div id="landing-title-text" style="text-align: center">
           <img id="landing-logo" src="/assets/images/logo.webp" alt="Asthonia Logo" />
-          <h1 class="hide-mobile-2">1.18.1 RPG Survival</h1>
+          <h1 class="hide-mobile-2">Community RPG Survival</h1>
           <h2 class="hide-mobile" id="player-count">99 Players Online</h2>
           <p class="ip">play.asthonia.com</p>
           <div style="width:100%">
@@ -64,15 +64,15 @@
         <div class="shadow"></div>
         <section class="center" style="flex-direction: column; max-width: 600px; border-radius: 50px; border: #a262ff dotted 3px; margin: 50px;">
           <h3>Welcome to Asthonia</h3>
-          <p>Asthonia is a PVE survival RPG server brought you by the team behind SemiVanilla MC. Danger lurks around every corner. Will you survive?</p>
+          <p>Not your average SMP. Asthonia is a PVE survival RPG server focused on having a friendly, inviting community. We're one of those servers you come to call home.</p>
         </section>
         <section class="center">
           <div>
-            <h3>Hard Difficulty Survival</h3>
-            <p>Zombies can break through wooden doors and spawn reinforcements. Spiders have beneficial status effects. Villagers turn into zombie villagers when killed. Hostile mobs deal more damage. Starvation kills.</p>
+            <h3>Friendly Community</h3>
+            <p>Team up with others, or adventure alone, the choice is yours. Create Lands to protect your base and invite others to your Land to create a town. On Asthonia you are safe around other players, since PVP is off.</p>
           </div>
           <div>
-            <img class="small" src="/assets/images/landing-zombie.webp" alt="Minecraft Zombie" />
+            <img class="small" src="/assets/images/landing-pvp.webp" alt="Minecraft Swords" />
           </div>
         </section>
         <section class="center">
@@ -86,11 +86,11 @@
         </section>
         <section class="center">
           <div>
-            <h3>+ Friendly Community</h3>
-            <p>Team up with others, or adventure alone, the choice is yours. Create Lands to protect your base and invite others to your Land to create a town. On Asthonia you are safe around other players, since PVP is off.</p>
+            <h3>+ Hard Difficulty</h3>
+            <p>It wouldn't be survival without a challenge! On Asthonia, we set the difficulty to hard, which means zombies can break through wooden doors, spiders have beneficial status effects, starvation kills, and more!</p>
           </div>
           <div>
-            <img class="small" src="/assets/images/landing-pvp.webp" alt="Minecraft Swords" />
+            <img class="small" src="/assets/images/landing-zombie.webp" alt="Minecraft Zombie" />
           </div>
         </section>
         <section class="center" style="flex-direction: column; max-width: 600px;">

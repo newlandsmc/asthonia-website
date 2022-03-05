@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Semi-Vanilla Minecraft Server | Hard Survival | RPG</title>
+    <title>Asthonia Minecraft Server | Join</title>
     <?php echo file_get_contents($_SERVER['DOCUMENT_ROOT'] .'/assets/templates/seo.html'); ?>
     <script async defer>
       function copyToClipboard(id) {
         var aux = document.createElement("input");
-        aux.setAttribute("value", "play.semivanilla.com");
+        aux.setAttribute("value", "play.asthonia.com");
         document.body.appendChild(aux);
         aux.select();
         document.execCommand("copy");
@@ -23,7 +23,7 @@
     <script defer async type="module">
       import '/assets/javascript/jquery-3.6.0.min.js';
       $(document).ready(function () {
-        jQuery.getJSON("https://api.mcsrvstat.us/2/play.semivanilla.com",function(json){
+        jQuery.getJSON("https://api.mcsrvstat.us/2/play.asthonia.com",function(json){
           if (json.online == false) {
           }
           else {
@@ -46,7 +46,7 @@
   <body>
     <?php echo file_get_contents($_SERVER['DOCUMENT_ROOT'] .'/assets/templates/header.html'); ?>
     <main>
-      <div class="sub-title" style="background: url(/assets/images/clouddibal-art.webp); background-size: cover; background-position: 85%;">
+      <div class="sub-title" style="background: url(/assets/images/starshrew-bg.webp); background-size: cover; background-position: 85%;">
         <div>
           <h1>How to Join</h1>
           <h2 id="player-count">99 Players Online</h2>
@@ -61,7 +61,7 @@
             <ol>
               <li>In Minecraft, go to <strong>Multiplayer</strong> and then <strong>Add Server</strong>.</li>
               <li>Enter a name, this can be anything you want!</li>
-              <li>Enter "play.semivanilla.com" for the <strong>Server Address</strong>.</li>
+              <li>Enter "play.khavalon.com" for the <strong>Server Address</strong>.</li>
               <li>Click <strong>Done</strong>.</li>
               <li>Select our server and join!</li>
             </ol>
@@ -95,7 +95,7 @@
       <div class="overlay">
         <div class="overlay-bg" onclick="overlayDismiss()"></div>
         <div class="overlay-fg">
-          <p class="ip">play.semivanilla.com</p>
+          <p class="ip">play.khavalon.com</p>
           <p style="margin:10px 0 30px 0;">Copied to Clipboard</p>
           <button type="button" onclick="overlayDismiss()">Okay</button>
         </div>
