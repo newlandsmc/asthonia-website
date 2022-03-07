@@ -20,9 +20,10 @@
         <section>
           <h3>Be Careful</h3>
           <ul>
-            <li class="rules">Trusting players is at-your-own-risk - set up your land claim roles and areas carefully!</li>
-            <li class="rules">Trades and job agreements are at-your-own-risk! Use the /trade GUI to avoid scams.</li>
-            <li class="rules">Unclaimed builds can be griefed*! Make sure you protect your home. <span style="color:#787983">* Significant griefing done to people you know are active and with the intent to cause them distress is not allowed.</span></li>
+            <li class="rules">Trusting players is at-your-own-risk! (Set up your land claim roles and areas carefully!)</li>
+            <li class="rules">Trades and job agreements are at-your-own-risk! (Use the /trade GUI to avoid scams.)</li>
+            <li class="rules">Unclaimed builds can be griefed*! Make sure you protect your home. <span style="color:#787983">* Significant griefing done to people you know are active and with the intent to harm is not allowed.</span></li>
+            <li class="rules">Do not log out somewhere unsafe! (We are not responsible for deaths on log-in due to missing blocks, placed lava, etc.)</li>
           </ul>
         </section>
         <section class="divider">
@@ -31,7 +32,7 @@
         <section>
           <h3>Be Kind</h3>
           <ul>
-            <li class="rules">Player traps are completely prohibited.</li>
+            <li class="rules">Player traps are completely prohibited. ("Player traps" = something designed to kill or trap a player that isn't an obvious threat until after it has triggered.)</li>
             <li class="rules">Harassment, threats, verbal abuse, and hateful speech are not tolerated. Sexist, racist, homophobic, and broad, offensive generalizations about groups of people are prohibited.</li>
             <li class="rules">Do not participate in actions intended only to upset others ("trolling", "antagonizing", etc).</li>
             <li class="rules">All topics are generally allowed in chat, but keep other's feelings in mind and staff have the right to shut down a conversation if needed.</li>
@@ -44,7 +45,12 @@
         <section>
           <h3>Be Fair</h3>
           <ul>
-            <li class="rules">Any hack or mod that gives you an unfair advantage in the game is not allowed. Only the following mods may be used: performance enhancers (Optifine), shaders, gameplay recording, inventory management, status HUDs.</li>
+            <li class="rules">Any hack or mod that gives you an unfair advantage in the game is not allowed.
+              <ul>
+                <li class="rules"><strong>Banned mods:</strong> minimaps</li>
+                <li class="rules"><strong>Approved mods:</strong> performance enhancers (Optifine), shaders, gameplay recording, inventory management, status HUDs</li>
+              </ul>
+            </li>
             <li class="rules">Exploiting glitches or bypassing our anti-swear and anti-cheat tools are not allowed.</li>
             <lu class="rules">If you share your account, you are responsible for anything that happens on your account.</li>
             <li class="rules">Alt accounts are prohibited.</li>
@@ -56,6 +62,7 @@
         <section>
           <h3>Be SVMC</h3>
           <ul>
+            <li class="rules">Do not discuss or appeal bans/mutes/etc in public channels. (An appeal email is provided in every punishment message, or on the Discord <strong>#faq</strong> page.)</li>
             <li class="rules">Do not intentionally disparage, tarnish, or otherwise harm the server.</li>
             <li class="rules">Do not advertise other Minecraft servers or Discords.</li>
           </ul>
