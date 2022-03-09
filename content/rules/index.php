@@ -22,7 +22,7 @@
           <ul>
             <li class="rules">Trusting players is at-your-own-risk! (Set up your land claim roles and areas carefully!)</li>
             <li class="rules">Trades and job agreements are at-your-own-risk! (Use the /trade GUI to avoid scams.)</li>
-            <li class="rules">Unclaimed builds can be griefed*! Make sure you protect your home. <span style="color:#787983">* Significant griefing done to people you know are active and with the intent to harm is not allowed.</span></li>
+            <li class="rules">Unclaimed builds can be griefed*! Make sure you protect your home. (Significant griefing done to people you know are active and with the intent to harm is not allowed.)</li>
             <li class="rules">Do not log out somewhere unsafe! (We are not responsible for deaths on log-in due to missing blocks, placed lava, etc.)</li>
           </ul>
         </section>
@@ -32,10 +32,11 @@
         <section>
           <h3>Be Kind</h3>
           <ul>
-            <li class="rules">Player traps are completely prohibited. ("Player traps" = something designed to kill or trap a player that isn't an obvious threat until after it has triggered.)</li>
-            <li class="rules">Harassment, threats, verbal abuse, and hateful speech are not tolerated. Sexist, racist, homophobic, and broad, offensive generalizations about groups of people are prohibited.</li>
-            <li class="rules">Do not participate in actions intended only to upset others ("trolling", "antagonizing", etc).</li>
-            <li class="rules">All topics are generally allowed in chat, but keep other's feelings in mind and staff have the right to shut down a conversation if needed.</li>
+            <li class="rules">Player traps are prohibited. ("Player traps" = something designed to kill or trap a player that isn't an obvious threat until after it has triggered.)</li>
+            <li class="rules">Harassment, threats, verbal abuse, and hateful speech, and offensive generalizations are prohibited.</li>
+            <li class="rules">No bullying.</li>
+            <li class="rules">No trolling or antagonizing. (Do not participate in actions intended only to upset others.)</li>
+            <li class="rules">Keep other's feelings in mind when using chat. (Staff have the right to shut down a conversation if needed.)</li>
             <li class="rules">Do not spam.</li>
           </ul>
         </section>
@@ -47,11 +48,10 @@
           <ul>
             <li class="rules">Any hack or mod that gives you an unfair advantage in the game is not allowed.
               <ul>
-                <li class="rules"><strong>Banned mods:</strong> minimaps</li>
-                <li class="rules"><strong>Approved mods:</strong> performance enhancers (Optifine), shaders, gameplay recording, inventory management, status HUDs</li>
+                <li class="rules"><strong>Approved mods:</strong> performance enhancers (like Optifine), shaders, gameplay recording, inventory management, status HUDs, minimaps</li>
               </ul>
             </li>
-            <li class="rules">Exploiting glitches or bypassing our anti-swear and anti-cheat tools are not allowed.</li>
+            <li class="rules">Do not exploit bugs in our server's features. Vanilla exploit are allowed, unless they involve duplicating items.</li>
             <lu class="rules">If you share your account, you are responsible for anything that happens on your account.</li>
             <li class="rules">Alt accounts are prohibited.</li>
           </ul>

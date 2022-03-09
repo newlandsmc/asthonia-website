@@ -66,8 +66,8 @@
           <section>
             <h3>Limits</h3>
             <p>New players can claim up to <strong>15 chunks per Land</strong>. You earn an additional 5 chunks every 5 Mining levels (see Skills & Abilities). This limit is per-Land. You can also increase your Land's chunk limit by adding members.</p>
-            <p>New players can create up to <strong>1 Land</strong>. You will unlock an additional Land at Mining level 5, and a third Land at Mining level 49.</p>
-            <p>Players can be a member of up to 5 Lands. This does NOT include their own Lands.</p>
+            <p>New players can create up to <strong>3 Lands</strong>. You will unlock an fourth Land at Mining level 25, and a fifth Land at Mining level 50.</p>
+            <p>Players can be a member of infinite Lands, but each Land can only have up to 15 members.</p>
           </section>
         </div>
       </div>
