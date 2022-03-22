@@ -65,6 +65,7 @@
             <li class="rules">Do not discuss or appeal bans/mutes/etc in public channels. (An appeal email is provided in every punishment message, or on the Discord <strong>#faq</strong> page.)</li>
             <li class="rules">Do not intentionally disparage, tarnish, or otherwise harm the server.</li>
             <li class="rules">Do not advertise other Minecraft servers or Discords.</li>
+            <li class="rules">Please only use English in public channels as we are generally unable to moderate other languages.</li>
           </ul>
         </section>
       </div>

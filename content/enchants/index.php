@@ -20,7 +20,7 @@
         <div>
           <section>
             <h3>Custom Enchants</h3>
-            <p>There are <strong>114</strong> custom enchants available on SemiVanilla. They are available for all types of weapons, armor, and tools.</p>
+            <p>There are <strong>95</strong> custom enchants available on SemiVanilla. They are available for all types of weapons, armor, and tools.</p>
             <p>To see a list of all available enchants, <a href="all/">click here</a>.</p>
             <p>Custom enchants are broken up into 6 different rarity categories. The higher the rarity, the less likely you are to find that enchant.</p>
             <ul>

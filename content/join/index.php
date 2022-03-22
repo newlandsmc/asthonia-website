@@ -61,7 +61,7 @@
             <ol>
               <li>In Minecraft, go to <strong>Multiplayer</strong> and then <strong>Add Server</strong>.</li>
               <li>Enter a name, this can be anything you want!</li>
-              <li>Enter "play.khavalon.com" for the <strong>Server Address</strong>.</li>
+              <li>Enter "play.asthonia.com" for the <strong>Server Address</strong>.</li>
               <li>Click <strong>Done</strong>.</li>
               <li>Select our server and join!</li>
             </ol>
@@ -80,7 +80,7 @@
               <li>In Minecraft, go to <strong>Play</strong> and then <strong>Servers</strong>.</li>
               <li>Scroll to the bottom and tap on <strong>Add Server</strong>.
               <li>Enter a name, this can be anything you want!</li>
-              <li>Enter "play.semivanilla.com" for the <strong>Server Address</strong>. Leave the default port (19132).</li>
+              <li>Enter "play.asthonia.com" for the <strong>Server Address</strong>. Leave the default port (19132).</li>
               <li>Tap <strong>Play</strong>!</li>
             </ol>
           </div>
@@ -95,7 +95,7 @@
       <div class="overlay">
         <div class="overlay-bg" onclick="overlayDismiss()"></div>
         <div class="overlay-fg">
-          <p class="ip">play.khavalon.com</p>
+          <p class="ip">play.asthonia.com</p>
           <p style="margin:10px 0 30px 0;">Copied to Clipboard</p>
           <button type="button" onclick="overlayDismiss()">Okay</button>
         </div>

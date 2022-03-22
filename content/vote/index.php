@@ -47,8 +47,8 @@
             <a href="https://www.planetminecraft.com/server/asthonia-1-18-1-friendly-community-survival/vote/" target="_blank"><button type="button" id="vote4" onclick="buttonClicked('vote4')">Vote</button></a>
           </div>
           <div>
-            <h3>best-minecraft-servers.co</h3>
-            <a href="https://best-minecraft-servers.co/server-asthonia.5311/vote" target="_blank"><button type="button" id="vote5" onclick="buttonClicked('vote5')">Vote</button></a>
+            <h3>servers-minecraft.net</h3>
+            <a href="https://servers-minecraft.net/server-asthonia-1-18-2.1275/vote" target="_blank"><button type="button" id="vote5" onclick="buttonClicked('vote5')">Vote</button></a>
           </div>
           <div>
             <h3>minecraft.buzz</h3>
