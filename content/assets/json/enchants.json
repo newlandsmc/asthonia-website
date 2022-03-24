@@ -43,6 +43,13 @@
       "<span style='color: #ff55ff;'>Legendary</span>"
     ],
     [
+      "Impale",
+      "Chance to deal double damage to your opponent, causing slowness for some time",
+      "Bows, Crossbows, Tridents",
+      "4",
+      "<span style='color: #ffaa00;'>Exotic</span>"
+    ],
+    [
       "Experience",
       "Chance to get more experience from ores.",
       "Pickaxes",
@@ -61,13 +68,6 @@
       "Chance to regain air when mining under water.",
       "Pickaxes, Shovels",
       "2",
-      "<span style='color: #ffffff;'>Common</span>"
-    ],
-    [
-      "Decapitation",
-      "Opponents head drop on death.",
-      "Swords, Axes",
-      "1",
       "<span style='color: #ffffff;'>Common</span>"
     ],
     [
@@ -631,13 +631,6 @@
       "<span style='color: #ff55ff;'>Legendary</span>"
     ],
     [
-      "Guardian",
-      "Automatically heals and cures all nearby allies.",
-      "Boots, Leggings, Chestplates, Helmets",
-      "5",
-      "<span style='color: #ffaa00;'>Exotic</span>"
-    ],
-    [
       "Rage",
       "For every combo hit you land, chance to do 0.5 heart damage per combo to your opponent. Up to 5 max combo hits.",
       "Swords, Axes",
@@ -661,8 +654,8 @@
     [
       "Chain Lifesteal",
       "Chance to steal health from multiple nearby enemies when attacking.",
-      "Boots, Leggings, Chestplates, Helmets",
-      "2",
+      "Swords, Tridents",
+      "5",
       "<span style='color: #ffff00;'>Fabled</span>"
     ]
   ]

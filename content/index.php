@@ -47,8 +47,7 @@
       <div class="title" style="background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) ), url(/assets/images/starshrew-bg.webp); background-size: cover; background-position: 85%;">
         <div id="landing-title-text" style="text-align: center">
           <img id="landing-logo" src="/assets/images/logo.webp" alt="Asthonia Logo" />
-          <h1 class="hide-mobile-2">Community RPG Survival</h1>
-          <h2 class="hide-mobile" id="player-count">99 Players Online</h2>
+          <p style="font-weight: bold;" class="hide-mobile" id="player-count">99 Players Online</p>
           <p class="ip">play.asthonia.com</p>
           <div style="width:100%">
             <button type="button" id="copybutton" onclick="copyToClipboard('copybutton')">Play Now</button>
@@ -62,8 +61,8 @@
       </div>
       <div class="content" id="landing">
         <div class="shadow"></div>
-        <section class="center" style="flex-direction: column; max-width: 600px; border-radius: 50px; border: #a262ff dotted 3px; margin: 50px;">
-          <h3>Welcome to Asthonia</h3>
+        <section class="center" style="flex-direction: column; max-width: 600px; border-radius: 50px; border: #329dff dotted 3px; margin: 50px;">
+          <h1 style="font-size: 3em;">Friendly Community RPG Survival</h1>
           <p>Not your average SMP. Asthonia is a PVE survival RPG server focused on having a friendly, inviting community. We're one of those servers you come to call home.</p>
         </section>
         <section class="center">

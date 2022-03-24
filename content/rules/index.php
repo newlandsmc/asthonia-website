@@ -27,7 +27,7 @@
           </ul>
         </section>
         <section class="divider">
-          <div style="width: 50%; border-top: 3px dotted #a262ff;"></div>
+          <div style="width: 50%; border-top: 3px dotted #329dff;"></div>
         </section>
         <section>
           <h3>Be Kind</h3>
@@ -41,7 +41,7 @@
           </ul>
         </section>
         <section class="divider">
-          <div style="width: 50%; border-top: 3px dotted #a262ff;""></div>
+          <div style="width: 50%; border-top: 3px dotted #329dff;"></div>
         </section>
         <section>
           <h3>Be Fair</h3>
@@ -57,7 +57,7 @@
           </ul>
         </section>
         <section class="divider">
-          <div style="width: 50%; border-top: 3px dotted #a262ff;""></div>
+          <div style="width: 50%; border-top: 3px dotted #329dff;"></div>
         </section>
         <section>
           <h3>Be SVMC</h3>
