@@ -1,3 +1,3 @@
 function buttonClicked(id) {
-  document.getElementById(id).style.backgroundColor = "#d2a69f";
+  document.getElementById(id).style.backgroundColor = "#818f9d";
 }

@@ -11,7 +11,7 @@
         aux.select();
         document.execCommand("copy");
         document.body.removeChild(aux);
-        document.getElementById(id).style.backgroundColor = "#d2a69f";
+        document.getElementById(id).style.backgroundColor = "#818f9d";
         $('.overlay').addClass('active');
       }
       function overlayDismiss() {
@@ -62,7 +62,7 @@
       <div class="content" id="landing">
         <div class="shadow"></div>
         <section class="center" style="flex-direction: column; max-width: 600px; border-radius: 50px; border: #329dff dotted 3px; margin: 50px;">
-          <h1 style="font-size: 3em;">Friendly Community RPG Survival</h1>
+          <h1>Friendly Community RPG Survival</h1>
           <p>Not your average SMP. Asthonia is a PVE survival RPG server focused on having a friendly, inviting community. We're one of those servers you come to call home.</p>
         </section>
         <section class="center">

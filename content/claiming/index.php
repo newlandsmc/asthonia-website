@@ -47,6 +47,7 @@
               <li><strong>/lands invites</strong> - View received invites</li>
               <li><strong>/lands leave</strong> - Leave a land</li>
               <li><strong>/lands chat</strong> - Send message to other land members</li>
+              <li><strong>/lands spawn</strong> - Teleport to your land</li>
             </ul>
           </section>
         </div>
