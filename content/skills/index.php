@@ -20,7 +20,7 @@
         <div>
           <section>
             <h3>Skills</h3>
-            <p>There are 15 unique skills on SemiVanilla that you will level up as you play the game. You gain XP in each of them automatically by doing relevant activities.</p>
+            <p>There are 15 unique skills on Asthonia that you will level up as you play the game. You gain XP in each of them automatically by doing relevant activities.</p>
             <p>As you level up each skill, you will unlock special <strong>abilities</strong> and level up your <strong>stats</strong>.</p>
             <p>You can check your skills levels anytime with <strong>/skills</strong> or <strong>/&lt;skillname&gt;</strong>.
             <ul>

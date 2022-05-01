@@ -12,63 +12,59 @@
       <div class="sub-title" style="background-image: url(/assets/images/claiming-title.webp); background-position: center;">
         <div>
           <h1>Land Claiming</h1>
-          <h2>Powered by Lands</h2>
+          <h2>Powered by GriefPrevention</h2>
         </div>
       </div>
       <div class="content split-content">
         <div class="shadow"></div>
         <div>
           <section>
-            <h3>Getting Started</h3>
-            <p>Land can be claimed on SemiVanilla using the "Lands" system. Lands are created by claiming chunks. Anything within claimed chunks - builds, chests, villagers, animals, and more - is protected.</p>
-            <p>Lands are extremely powerful. Land owners can create custom roles to trust players, and control what permissions those roles have. Lands can also be divided into "areas" to control access to specific parts of a Land.</p>
-            <p>Lands is entirely command and GUI based, although there are some optional in-game items that may make certain tasks easier.</p>
-            <img src="/assets/images/claiming-gui.webp" alt="Minecraft in-game GUI for Lands"></img>
+            <h3>Overview</h3>
+            <p>Land can be claimed on Asthonia using GriefPrevention. GriefPrevetion lets you select any rectangular area to protect. Claims automatically extend up to Y 320, and will extend downward as you build. Anything within a claimed area - builds, chests, villagers, animals, and more - is protected.</p>
+            <p>Claim owners can control access to their land in several ways. There are different types of trust that you can give players to allow them complete access, only access to chests, or only access to use buttons/levers (access trust). Claims can also be divided into "subdivisions" to control access to specific parts of a claim.</p>
           </section>
           <section>
+            <h3>Trusting Others</h3>
+            <p>Trusting players is at-your-own-risk! Claim owners have control over who can access their claim and what they can do (containertrust, accesstrust, permissiontrust, and full trust). It is up to you to give people appropriate access, and 
+make sure you only trust people you know. We are not responsible for players abusing their trust to take your stuff or grief your claim.</p>
+            <p>To grant someone access to a specific part of your claim, use subdivisions. You can divide your claim into subdivisions by using subdivision mode (hold a golden shovel and run <strong>/subdivideclaims</strong>). Creating subdivisions works exactly the same as creating regular claims. You are essentially creating mini-claims within your claim that you can use to grant people access to only specific areas.</p>
+          </section>
+          <section>
+            <h3>Limits</h3>
+            <p>New players will start with 500 "claim blocks". Each "claim block" allows you to add 1 block to your claim size (only counting length and width - remember claims dont count height!).</p>
+            <p>You will earn an additional 1000 claim blocks for every mining level you unlock. This means at maximum mining level (mining level 97) you will be able to claim up to 97,500 blocks.</p>
+            <p>If you need additional claim blocks, you can ask a staff member for more. We will provide more on a case-by-case basis.</p>
+            <p>You can create up to 15 separate claims. Your "claim blocks" limit is shared between all of your claims.</p>
+          </section>
+          <section>
+            <h3>Automatic Claim Delection</h3>
+            <p>If a claim owner is offline for 90 days, the claim will be deleted. After this, the land is free-game to be reused or raided by anyone.</p>
+          </section>
+        </div>
+        <div>
+         <section>
             <h3>Creating a Claim</h3>
-            <p>To create a new Land, stand in a chunk you wish to claim and type <strong>/lands create [name]</strong>. This will create a new Land and automatically claim the chunk you are standing in. You can now use <strong>/lands</strong> to access the GUI and manage your claim. If you ever want to delete your claim, use <strong>/lands delete &lt;claim&gt;</strong>.</p>
-            <p>To expand your Land, stand in another nearby chunk and use <strong>/lands claim</strong>, or use <strong>/lands selection</strong> to get the optional selection tool. If you ever want to reduce your claim, stand in a claimed chunk and use <strong>/lands unclaim</strong>.</p>
-            <p style="color:#4ad555;">You can also create camps using <strong>/lands createcamp</strong>! Camps are 2x2 claims that last 24 hours.</p>
+            <p>To claim land, you will need a golden shovel, and, optionally, a stick. You can craft these items yourself or do <strong>/claim</strong> to receive them for free. The shovel is used for modifying claims and the stick is used for viewing claim information.</p>
+            <p>All claims are rectangular. Determine what size/shape rectangle you need to claim to protect your entire build. Then, use the golden shovel to right click two opposite corners of that rectangle. This will create a claim. You can visualize the claim by looking at the glowstone and gold blocks that are temporarily placed to outline the claim.</p>
+            <p>To resize a claim, use the golden shovel to right click one of the corners (represented by glowstone) and then right click a new location you want that corner to be.</p>
+            <p style="color:#4ad555;">Remember, claims automatically extend vertically! You only need to worry about the length/width of the claim, not the height.</p>
+            <img src="/assets/images/claiming-border.webp" alt="Glowstone and gold block border around a claim in-game" style="border-radius: 5px;"></img>
           </section>
           <section>
             <h3>Useful Commands</h3>
             <ul>
-              <li><strong>/lands</strong> - Open Lands GUI</li>
-              <li><strong>/lands create</strong> - Create new Land</li>
-              <li><strong>/lands createcamp</strong> - Create new Camp</li>
-              <li><strong>/lands claim</strong> - Claim current chunk</li>
-              <li><strong>/lands unclaim</strong> - Unclaim current chunk</li>
-              <li><strong>/lands selection</strong> - Lands selection tool (used for creating Areas)</li>
-              <li><strong>/lands edit</strong> - Select which land to edit (determines which Land you edit when you open the GUI or claim chunks</li>
-              <li><strong>/lands map</strong> - View map of claims around you</li>
-              <li><strong>/lands view</strong> - Show outlines of nearby claims</li>
-              <li><strong>/lands trust</strong> - Send invite to someone</li>
-              <li><strong>/lands invites</strong> - View received invites</li>
-              <li><strong>/lands leave</strong> - Leave a land</li>
-              <li><strong>/lands chat</strong> - Send message to other land members</li>
-              <li><strong>/lands spawn</strong> - Teleport to your land</li>
+              <li><strong>/unclaim</strong> - Delete a claim</li>
+              <li><strong>/containertrust &lt;player&gt;</strong> - Allow someone to access your chests</li>
+              <li><strong>/permissiontrust &lt;player&gt;</strong> - Allow someone to trust/untrust others</li>
+              <li><strong>/accesstrust &lt;player&gt;</strong> - Allow someone to access your doors and redstone</li>
+              <li><strong>/trust &lt;player&gt;</strong> - Allow someone to build and access your chests</li>
+              <li><strong>/untrust &lt;player&gt;</strong> - Remove someones access</li>
+              <li><strong>/trustlist</strong> - See all players you trusted</li>
+              <li><strong>/setclaimspawn</strong> - See claim spawn point</li>
+              <li><strong>/gptp &lt;claimID&gt;</strong> - Teleport to your claim spawn point</li>
+              <li><strong>/gptlist</strong> - List your claims and claimIDs</li>
+              <li><strong>/gptname</strong> - Name your claim (make them easier remember)</li>
             </ul>
-          </section>
-        </div>
-        <div>
-          <section>
-            <h3>Trusting Others</h3>
-            <p>Trusting players is at-your-own-risk! Land owners have complete control over who can do things in their Land, what they can do, and where they can do it. It is up to you to use the tools at your disposal to appropriately trust players to your land.</p>
-            <p>To grant someone access to a specific part of your Land, use Areas. You can divide your Land into Areas by using the selection tool (<strong>/lands selection</strong>). To create an Area, first open the GUI and navigate to "Areas" and click on "Create Area". Once an Area is created, get the selection tool and click on 2 opposite corners to select a square area, and then use <strong>/lands assign &lt;area&gt;</strong> to create an area with that selection.</p>
-            <p>To trust someone to your Land or an Area of the land, use <strong>/lands trust &lt;player&gt; [area]</strong>. They will receive an invite and must accept it. After that, you can use the GUI to assign that player to a specific role and control their permissions.</p>
-            <img style="border-radius: 5px;" src="/assets/images/claiming-particles.webp" alt="Animation of particle affect showing Lands selection"></img>
-          </section>
-          <section>
-            <h3>Automatic Claim Delection</h3>
-            <p>If a Land owner is offline for 90 days, a new owner will be assigned automatically from the Land members. If there are no eligible new owners, then the Land is deleted and the chunks are free-game to be reused or raided by anyone.</p>
-            <p>Members of Lands are also removed from Lands after they've been inactive for 90 days.</p>
-          </section>
-          <section>
-            <h3>Limits</h3>
-            <p>New players can claim up to <strong>15 chunks per Land</strong>. You earn an additional 5 chunks every 5 Mining levels (see Skills & Abilities). This limit is per-Land. You can also increase your Land's chunk limit by adding members.</p>
-            <p>New players can create up to <strong>3 Lands</strong>. You will unlock an fourth Land at Mining level 25, and a fifth Land at Mining level 50.</p>
-            <p>Players can be a member of infinite Lands, but each Land can only have up to 15 members.</p>
           </section>
         </div>
       </div>
