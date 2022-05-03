@@ -27,15 +27,21 @@
           <section>
             <h3>Mob Leader</h3>
             <p>An Illusioner with quite the following, this Illusioner will spawn in a cadre of zombies and skeletons, with more spawning the more you ignore it.</p>
-            <p>The Mob Leader can be randomly encountered through the world.</p>
+            <p>The Mob Leader can be randomly encountered through the world and nether.</p>
             <img class="medium" src="/assets/images/mobs-mob-leader.webp" alt="Minecraft Illusioner, zombie, and skeleton"></img>
+          </section>
+          <section>
+            <h3>Angry Sludge</h3>
+            <p>A giant slime. Slow, but lots of health. Also inflicts poison.</p>
+            <p>The Angry Sludge can be found in swamps..</p>
+            <img class="medium" src="/assets/images/mobs-slime.webp" alt="Minecraft Slime"></img>
           </section>
         </div>
         <div>
           <section>
             <h3>Skeleton King</h3>
             <p>Leader of the Skeleton World, the Skeleton King summons minions to defend himself if encountered. He also has high HP and decent strength himself, if you can get close enough.</p>
-            <p>The Skeleton King can be randomly encountered through the world.</p>
+            <p>The Skeleton King can be randomly encountered through the world and nether.</p>
             <img class="medium" src="/assets/images/mobs-skeleton-king.webp" alt="Minecraft Wither Skeleton and two skeletons"></img>
           </section>
           <section>
