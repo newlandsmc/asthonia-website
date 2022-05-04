@@ -31,8 +31,8 @@
         </section>
         <section class="center" id="votelinks">
           <div>
-            <h3>minecraftservers.org</h3>
-            <a href="https://minecraftservers.org/vote/630602" target="_blank"><button type="button" id="vote1" onclick="buttonClicked('vote1')">Vote</button></a>
+            <h3>minecraft.global</h3>
+            <a href="https://minecraft.global/server/130/vote" target="_blank"><button type="button" id="vote1" onclick="buttonClicked('vote1')">Vote</button></a>
           </div>
           <div>
             <h3>topmcservers.com</h3>
@@ -51,8 +51,8 @@
             <a href="https://servers-minecraft.net/server-semivanilla-studios-1-18-2-survival.1274/vote" target="_blank"><button type="button" id="vote5" onclick="buttonClicked('vote5')">Vote</button></a>
           </div>
           <div>
-            <h3>minecraft.buzz</h3>
-            <a href="https://minecraft.buzz/vote/3877" target="_blank"><button type="button" id="vote6" onclick="buttonClicked('vote6')">Vote</button></a>
+            <h3>mc-servers.com</h3>
+            <a href="https://mc-servers.com/mcvote/5117/" target="_blank"><button type="button" id="vote6" onclick="buttonClicked('vote6')">Vote</button></a>
           </div>
         </section>
         <section class="center">
